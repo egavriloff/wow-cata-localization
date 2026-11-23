@@ -1,0 +1,24 @@
+{
+  "fields": 617,
+  "file": "quest_template_locale.sql",
+  "patch_ids": [
+    "10b6a023dbf7408a7399fb2568434ed3317d0197010997a877a3e6eec3b27760",
+    "52011579743bbab52d41e6f5fe065399ab06d9e59b7130fe54443fd872227181",
+    "695c9050c0b1a2a5000e61f9f5f0d58bd3b2fd6dcbdb6f8a82b7ee9069cf2d0c",
+    "869a6e98d1afb08886a3aa1378ec806ca6850017a1c0ae84dc31b92947addd87",
+    "90e6421fc9eeb8af8d78bde76719741bd01d48027ef6eacc0c0f3abd88812d65",
+    "98ebe54c8cb2a20c42e2bf015cb7ff7d2e746b2d7d5204f41daff14b27b36b24",
+    "9f226e8dad24587566b18cd9f49281908bbfaef1c84dc6099be5e030543123f3",
+    "a439f72f631d78237becbd7889391c9c4e5b879fb0e8ff1495f31be4933a7ecd",
+    "d0bcedc2e67c12cfcda4d776e4231633552b2778427f61b273dbd5ea622513b5"
+  ],
+  "quests": 521,
+  "schema_version": 1,
+  "sha256": "a063f4c814d49e26c4cde792e8067e49e15545eadad212a512290de111132485",
+  "target": {
+    "build": 15595,
+    "locale": "ruRU",
+    "source_id": "tcpp",
+    "table": "quest_template_locale"
+  }
+}

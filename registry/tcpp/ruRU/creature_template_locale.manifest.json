@@ -1,0 +1,15 @@
+{
+  "build": 15595,
+  "file": "creature_template_locale.sql",
+  "locale": "ruRU",
+  "patch_ids": [
+    "ee1cb29bbd87bf24616082365c30d0d3bb71194121f11b9b7c9368ef0939efd7",
+    "09fb87e19f57e92de8ad5e4337da79ebedfcce07479d8411cb1d79695aa0ee8d",
+    "5c4927d6247ffa62c2e4c6b8a654bc17e33e10defd17790e0a507bc2aa1cf689",
+    "29cf9a3d6b00a9f35de546a9659afe58a0ac42714cbf0f16c035255d569001fe"
+  ],
+  "schema_version": 1,
+  "sha256": "dfc44a6571303a4b93ab8de2f3f79da73127749c8510f1073788b5ec5785502a",
+  "source_id": "tcpp",
+  "table": "creature_template_locale"
+}
